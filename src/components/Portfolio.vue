@@ -3,8 +3,8 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Data Diri</h2>
-            <h3 class="section-subheading text-muted">Mari Mengenal Saya!</h3>
+            <h2 class="section-heading text-uppercase">Portfolio</h2>
+            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
           </div>
         </div>
         <div class="row">
@@ -34,7 +34,8 @@ export default {
         portfolioJSON: [
             {
                 img: '/something/random/img.jpg',
-                caption: 'Tempat Lahir'
+                caption: 'Explore',
+                title: 'Graphic Design'
             },
             {
                 img: '/something/random/img.jpg',
